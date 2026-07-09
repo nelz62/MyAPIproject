@@ -1,0 +1,12 @@
+
+
+[
+  {
+    "product_id": 1,
+    "product_name": "Laptop"
+  },
+  {
+    "product_id": 2,
+    "product_name": "Smartphone"
+  }
+]
